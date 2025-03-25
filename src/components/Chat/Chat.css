@@ -1,0 +1,16 @@
+/* Chat.css */
+.chat-section {
+    background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(10px);
+  }
+  
+  .chat-messages {
+    background: linear-gradient(
+      135deg,
+      rgba(165, 67, 88, 0.1),
+      rgba(83, 33, 56, 0.3)
+    );
+  }
+  
+  
+  
